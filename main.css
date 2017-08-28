@@ -1,41 +1,111 @@
 .cover {
-  
-  background: url("Pictures/M17.02.21E8328A1-ff-760-10-10-1920.jpg") center;
-  background-size: cover;
   margin: auto;
-  display: table;
   height: 100vh;
   width: 100vw;
-  max-width: 1920px;
   text-align: center;
-  color: blanchedalmond;
+  /*color: blanchedalmond;*/
+  /*background-size: cover;*/
+  /* max-width: 1920x;*/
+  
 }
-.wrapper {
-  display: table-cell;
-  vertical-align: middle;  
+#c00 {
+  background:url("Pictures/M17.02.21E8328A1-ff-760-10-10-1920.jpg") center;
+  background-repeat: no-repeat;
 }
-.wrapper  button {
-  /*display: table-cell;*/
+#c01{
+  background:url("Pictures/M17.02.21E8419A1-1920-ff-750-10-10.jpg");
+  background-repeat: no-repeat;
+}
+.navigation{
+  position: relative;
+  
+  margin: auto;
   border-style: solid; 
   border-width: thick;
   border-color: rgb(200,200,200);  
-  border-radius: 15vh;
-  background-color: hsla(120,0%,100%,0.1); 
+  border-radius: 150px;
+  background-color: hsla(0,0%,1000%,0.3); 
+  
 }
-.wrapper  button a {
-  display: block;
-  color: blanchedalmond;
-  font-size: 10vh;
-  text-decoration: none;
+
+#n00{
+  top: 20vh;
+  width: 500px;
+  height: 270px;
+  padding-top:  80px;
+  font-size: 30px;
 }
-.wrapper button:hover{
-  border-style: solid; 
-  border-width: thick;
-  border-radius: 15vh;
-  background: url("Pictures/M17.02.21E8419A1-500.jpg")center no-repeat ;
-  background-size: cover;
+#n00:hover{
+  background: url(Pictures/M17.02.21E8419A1-500.jpg);
+}
+.nav1 {
+  position: relative;
+  float: left;
+  top: 50px;
+  left:50px;
+  width: 200px;
+  height: 200px;
+  margin:10px;
+}
+#n01:hover{
+  background: url("Pictures/M17.02.21E8419A1-200x200.jpg")center no-repeat ;
+}
+.navigation:hover{
+ 
 }
 
 h1{
+  padding-top: 60px;
   font-size: 10vh;
+  color: cornsilk ;
+}
+h2{
+  font-size: 30px;
+  color: cornsilk;
+  padding-top: 80px;
+}
+a {
+  text-decoration: none;
+}
+/*
+.wrapperpage{
+  display: table-cell;
+  vertical-align: middle;  
+  float: left;
+  position: relative;
+  left: 50px;
+  top: 50px;
+  width: 200px;
+  height: 130px;
+  position: relative;
+   border-style: solid; 
+  border-width: thick;
+  border-color: rgb(200,200,200);  
+  border-radius: 150px;
+  background-color: hsla(0,0%,1000%,0.3); 
+  
+  padding-top:  80px;
+  margin:10px;
+  font-size: 30px;
+  color:cornsilk
+}
+*/
+.wrapperpage:hover{
+  color: hsla(0,0%,100%,0.3) ;
+}
+#wrapper01:hover{
+  background: url("Pictures/M17.02.21E8419A1-200x200.jpg")center no-repeat ;
+  
+}
+
+#wrapper02{
+}
+#wrapper03{
+ 
+}
+#wrapper04{
+  
+}
+#wrapper05{
+ 
 }
