@@ -1,0 +1,62 @@
+#cp2{
+  background: url("Pictures/M17.07.18E8805A0-1920-ff-750-10-10-fenyero127.jpg");
+    background-repeat: no-repeat;;
+}
+.nav-back{
+  position: relative;
+  float: left;
+  top: 20px;
+  left:50px;
+  width: 200px;
+  height: 200px;
+  
+  margin-right:70px;
+  margin-bottom: 30px;
+  border-color: rgb(200,200,200);  
+  border-radius: 15px;
+}
+.nav-back:hover{
+  background: url("Pictures/M17.02.21E8419A1-300.jpg");
+}
+.nav2 {
+  position: relative;
+  float: left;
+  top: 50px;
+  left:50px;
+  width: 200px;
+  height: 200px;
+  margin:10px;
+  border-color: rgb(200,200,200);  
+  border-radius: 15px;
+}
+.nav2:hover{
+  transform: scale(1.3);
+  transition: transform .5s ;
+}
+#nav2-01{
+  background: url("Pictures/M17.02.21E8326A1-200.jpg") center no-repeat;
+}
+#nav2-02{
+  background: url("Pictures/M17.07.18E8918A0-200.jpg") center no-repeat;
+}
+#nav2-03{
+  background: url("Pictures/M17.02.28E8540A1-200.jpg") center no-repeat;
+}
+#nav2-04{
+  background: url("Pictures/M17.02.28E8540A1-200.jpg") center no-repeat;
+}
+
+
+.flex-container{
+  display: -webkit-flex;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+img{
+  max-height: 100%;
+  max-width: 100%;
+}
+.flex-item{
+  margin: auto;
+}
