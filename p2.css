@@ -30,20 +30,43 @@
   border-radius: 15px;
 }
 .nav2:hover{
-  transform: scale(1.3);
+  transform: scale(1.2);
   transition: transform .5s ;
 }
 #nav2-01{
   background: url("Pictures/M17.02.21E8326A1-200.jpg") center no-repeat;
 }
 #nav2-02{
-  background: url("Pictures/M17.07.18E8918A0-200.jpg") center no-repeat;
+  background: url(Pictures/M17.07.18E8861A0-200.jpg) center no-repeat;
 }
 #nav2-03{
-  background: url("Pictures/M17.02.28E8540A1-200.jpg") center no-repeat;
+  background: url(Pictures/M17.07.18E8904A0-200.jpg) center no-repeat;
 }
 #nav2-04{
+  background: url("Pictures/M17.07.18E8918A0-200.jpg") center no-repeat;
+}
+#nav2-05{
+  background: url(Pictures/M17.02.21E8430A1-200.jpg)center no-repeat;
+}
+#nav2-06{
+  background: url(Pictures/M17.02.28E8617A0-200.jpg) center no-repeat;
+}
+#nav2-07{
   background: url("Pictures/M17.02.28E8540A1-200.jpg") center no-repeat;
+}
+#nav2-08{
+  background: url("Pictures/M17.02.28E8499A1-200.jpg") center no-repeat;
+}
+#nav2-09{
+  background: url("Pictures/M17.07.18E8834A1-200.jpg") center no-repeat;
+}
+
+
+#nav2-99{
+  
+}
+#nav2-99:hover{
+  background: url("Pictures/GooglePhotos-200.jpg") center no-repeat;
 }
 
 
