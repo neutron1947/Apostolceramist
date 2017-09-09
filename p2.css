@@ -1,22 +1,5 @@
 #cp2{
-  background: url("Pictures/M17.07.18E8805A0-1920-ff-750-10-10-fenyero127.jpg");
-    background-repeat: no-repeat;;
-}
-.nav-back{
-  position: relative;
-  float: left;
-  top: 20px;
-  left:50px;
-  width: 200px;
-  height: 200px;
-  
-  margin-right:70px;
-  margin-bottom: 30px;
-  border-color: rgb(200,200,200);  
-  border-radius: 15px;
-}
-.nav-back:hover{
-  background: url("Pictures/M17.02.21E8419A1-300.jpg");
+  background: url("Pictures/M17.07.18E8805A0-1920-ff-750-10-10-fenyero127.jpg") center no-repeat;
 }
 .nav2 {
   position: relative;
@@ -60,7 +43,6 @@
 #nav2-09{
   background: url("Pictures/M17.07.18E8834A1-200.jpg") center no-repeat;
 }
-
 
 #nav2-99{
   
