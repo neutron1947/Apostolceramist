@@ -1,0 +1,77 @@
+#cp5{
+  background: url("Pictures/M17.03.07E8662A1-1920-ff-750-10-10-fenyero127.jpg") center;
+  background-repeat: repeat-y;
+}
+#b5{background: url("Pictures/M17.03.07E8662A1-1920-ff-750-10-10-fenyero127.jpg")
+     center repeat-y;
+  background-color:hsl(0,0%,80%);
+}
+.nav5 {
+  position: relative;
+  float: left;
+  top: 50px;
+  left:50px;
+  width: 200px;
+  height: 200px;
+  margin:10px;
+  border-color: rgb(200,200,200);  
+  border-radius: 15px;
+}
+.nav5:hover{
+  transform: scale(1.2);
+  transition: transform .5s ;
+}
+#nav5-01{
+  background: url("Pictures/M17.03.07E8657A1-200.jpg") center no-repeat;
+}
+#nav5-02{
+  background: url("Pictures/M17.03.07E8706A1-200.jpg") center no-repeat;
+}
+#nav5-03{
+  background: url("Pictures/M17.03.07E8708A1-200.jpg") center no-repeat;
+}
+#nav5-04{
+  background: url("Pictures/M17.03.07E8726A0-200.jpg") center no-repeat;
+}
+#nav5-05{
+  background: url("Pictures/M17.03.07E8717A1-200.jpg")center no-repeat;
+}
+#nav5-06{
+  background: url("Pictures/M17.03.07E8749A1-200.jpg") center no-repeat;
+}
+#nav5-07{
+  background: url("Pictures/M17.03.07E8750A1-200.jpg") center no-repeat;
+}
+#nav5-08{
+  background: url("Pictures/M17.03.07E8681A1-200.jpg") center no-repeat;
+}
+#nav5-09{
+  background: url("Pictures/M17.03.07E8780A0-200.jpg") center no-repeat;
+}
+#nav5-10{
+  background: url("Pictures/M17.03.07E8659A1-200.jpg") center no-repeat;
+}
+
+
+
+#nav5-99{
+  
+}
+#nav5-99:hover{
+  background: url("Pictures/GooglePhotos-200.jpg") center no-repeat;
+}
+
+
+.flex-container{
+  display: -webkit-flex;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+img{
+  max-height: 100%;
+  max-width: 100%;
+}
+.flex-item{
+  margin: auto;
+}

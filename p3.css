@@ -2,6 +2,10 @@
   background: url("Pictures/M15.10.04E4510A1-1920-ff-750-10-10-fenyero127.jpg") center;
   background-repeat: repeat-y;
 }
+#b3{background: url("Pictures/M15.10.04E4510A1-1920-ff-750-10-10-fenyero127.jpg")
+     center repeat-y;
+  background-color:hsl(0,0%,80%);
+}
 .nav3 {
   position: relative;
   float: left;
@@ -21,16 +25,16 @@
   background: url("Pictures/M15.10.04E4368A1-200.jpg") center no-repeat;
 }
 #nav3-02{
-  background: url(Pictures/M15.10.04E4383A1-200.jpg) center no-repeat;
+  background: url("Pictures/M15.10.04E4383A1-200.jpg") center no-repeat;
 }
 #nav3-03{
-  background: url(Pictures/M15.10.04E4391A1-200.jpg) center no-repeat;
+  background: url("Pictures/M15.10.04E4391A1-200.jpg") center no-repeat;
 }
 #nav3-04{
   background: url("Pictures/M15.10.04E4431A1-200.jpg") center no-repeat;
 }
 #nav3-05{
-  background: url(Pictures/M15.10.04E4493A1-200.jpg)center no-repeat;
+  background: url("Pictures/M15.10.04E4493A1-200.jpg")center no-repeat;
 }
 #nav3-06{
   background: url(Pictures/M15.10.04E4405A1-200.jpg) center no-repeat;
